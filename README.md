@@ -1,4 +1,4 @@
-# Nexus Electronics (Fusion Electronics)
+# Nexus Electronics
 
 A production-ready full-stack MERN e-commerce platform featuring AI-powered product recommendations using vector similarity search. Built with React, Node.js, Express, MongoDB, and integrated with Pinecone for intelligent product recommendations.
 
